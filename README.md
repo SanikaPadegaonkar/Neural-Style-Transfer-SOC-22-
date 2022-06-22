@@ -1,4 +1,4 @@
-# Neural-Style-Transfer-SOC-22-
+# Neural-Style-Transfer-SOC-22
 Part 1: Data preprocessing/ Getting familiar with data
 Data Sources: 
 1. https://github.com/yursky/art-of-text/tree/master/data/kaggle 
